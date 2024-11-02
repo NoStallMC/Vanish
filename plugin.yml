@@ -1,0 +1,12 @@
+author: matejkoo
+description: Vanish plugin for beta
+main: main.java.org.matejko.plugin.Vanish
+name: Vanish
+version: 3
+commands:
+  vanish:
+    description: Toggles vanish mode for the player.
+    usage: /<command> [on|off]
+    aliases: [v]
+  list:
+    description: List connected players
